@@ -1,5 +1,3 @@
-Here is a professional README file generated based on the content of your Jupyter Notebook.
-
 Food Delivery System Data Analysis
 This repository contains a Jupyter Notebook (food_delivery_analysis.ipynb) that provides a comprehensive analysis of food delivery data. The analysis explores key performance indicators, customer behavior, and operational metrics to derive actionable insights.
 
@@ -61,3 +59,4 @@ numpy
 matplotlib
 
 seaborn
+jupyter
